@@ -45,5 +45,6 @@ Business Impact & Insights
 The impressive YTD Profit Margin increase (+5.37%) is a significant finding, strongly suggesting successful cost control measures or optimized product pricing. This insight provides product managers with clear targets for investment acceleration in top performers and mandate corrective strategies for the bottom five products.
 
 6. Screenshots / Demos
+<img width="1321" height="741" alt="Screenshot 2025-10-21 223359" src="https://github.com/user-attachments/assets/c7934d09-7e7b-4336-a5a0-06f4af579d13" />
 
 Please refer to the attached image file for the full report visualization.
