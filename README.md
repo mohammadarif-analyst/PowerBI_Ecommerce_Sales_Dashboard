@@ -47,4 +47,3 @@ The impressive YTD Profit Margin increase (+5.37%) is a significant finding, str
 6. Screenshots / Demos
 <img width="1321" height="741" alt="Screenshot 2025-10-21 223359" src="https://github.com/user-attachments/assets/c7934d09-7e7b-4336-a5a0-06f4af579d13" />
 
-Please refer to the attached image file for the full report visualization.
